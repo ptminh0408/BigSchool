@@ -101,7 +101,6 @@ D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\bin\M
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.csproj.AssemblyReference.cache
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.csproj.CoreCompileInputs.cache
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.csproj.CopyComplete
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.dll
@@ -109,3 +108,4 @@ D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\D
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.Migrations.InitialModel.resources
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.csproj.GenerateResource.cache
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.Migrations.CreateTableCourse.resources
+D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.Migrations.PopulateCategoryTable.resources
