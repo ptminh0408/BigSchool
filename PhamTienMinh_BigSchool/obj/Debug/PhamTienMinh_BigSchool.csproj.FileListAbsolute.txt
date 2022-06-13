@@ -109,3 +109,5 @@ D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\D
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.csproj.GenerateResource.cache
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.Migrations.CreateTableCourse.resources
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.Migrations.PopulateCategoryTable.resources
+D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.csproj.AssemblyReference.cache
+D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.Migrations.AddNameColumnToApplicationUser.resources
