@@ -111,3 +111,11 @@ D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\D
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.Migrations.PopulateCategoryTable.resources
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.csproj.AssemblyReference.cache
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.Migrations.AddNameColumnToApplicationUser.resources
+D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.Migrations.Attendance.resources
+D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\bin\System.Net.Http.Formatting.dll
+D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\bin\System.Web.Http.dll
+D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\bin\System.Web.Http.WebHost.dll
+D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\bin\System.Net.Http.Formatting.xml
+D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\bin\System.Web.Http.xml
+D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\bin\System.Web.Http.WebHost.xml
+D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.Migrations.AddFollowingsTable.resources

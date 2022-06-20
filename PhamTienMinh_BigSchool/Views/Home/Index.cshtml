@@ -3,8 +3,8 @@
     ViewBag.Title = "Home Page";
 }
 
-<div class="course">
-    <h1>UPCOMING COURSES</h1>
+<h1>UPCOMING COURSES</h1>
+<ul class="course">
     @foreach (var course in Model)
     {
         <li>
@@ -19,11 +19,44 @@
             <div class="details">
                 <span class="lecturer">
                     @course.Lecturer.Name
+                    <button data-user-id="@course.LecturerId" class="btn btn-default btn-sm js-toggle-follow">Follow</button>
                 </span>
                 <span class="category">
                     @course.Category.Name
                 </span>
+                <button data-course-id="@course.Id" class="btn btn-default btn-sm js-toggle-attendace">Going</button>
             </div>
         </li>
     }
-</div>
+</ul>
+
+@section scripts
+{
+    <script>
+        $(document).ready(function () {
+            $(".js-toggle-attendace").click(function (e) {
+                var button = $(e.target);
+                $.post("/api/attendances", { courseId: button.attr("data-course-id") })
+                    .done(function () {
+                        button
+                            .removeClass("btn-default")
+                            .addClass("btn-info")
+                            .text("Going");
+                    })
+                    .fail(function () {
+                        alert("Something failed!");
+                    });
+            });
+            $(".js-toggle-follow").click(function (e) {
+                var button = $(e.target);
+                $.post("/api/followings", { courseId: button.attr("data-user-id") })
+                    .done(function () {
+                        button.text("Following");
+                    })
+                    .fail(function () {
+                        alert("Something failed!");
+                    });
+            });
+        });
+    </script>
+    }
