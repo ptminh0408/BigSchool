@@ -119,3 +119,4 @@ D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\bin\S
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\bin\System.Web.Http.xml
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\bin\System.Web.Http.WebHost.xml
 D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.Migrations.AddFollowingsTable.resources
+D:\Desktop\1911062049\TH Web\PhamTienMinh_BigSchool\PhamTienMinh_BigSchool\obj\Debug\PhamTienMinh_BigSchool.Migrations.AddIsCanceledColumnToCourse.resources

@@ -29,6 +29,7 @@ namespace PhamTienMinh_BigSchool.Controllers
                 CourseId = attendanceDto.CourseId,
                 AttendeeId = User.Identity.GetUserId()
             };
+
             dbContext.Attendances.Add(attendace);
             dbContext.SaveChanges();
             return Ok();

@@ -30,13 +30,13 @@ namespace PhamTienMinh_BigSchool.Models
                 .WillCascadeOnDelete(false);
 
             modelBuilder.Entity<ApplicationUser>()
-                .HasMany(f => f.Followees)
-                .WithRequired(f => f.Follower)
-                .WillCascadeOnDelete(false);
+               .HasMany(u => u.Followers)
+               .WithRequired(f => f.Followee)
+               .WillCascadeOnDelete(false);
 
             modelBuilder.Entity<ApplicationUser>()
-                .HasMany(f => f.Followers)
-                .WithRequired(f => f.Followee)
+                .HasMany(u => u.Followees)
+                .WithRequired(f => f.Follower)
                 .WillCascadeOnDelete(false);
 
             base.OnModelCreating(modelBuilder);

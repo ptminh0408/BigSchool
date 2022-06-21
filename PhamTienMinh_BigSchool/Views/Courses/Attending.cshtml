@@ -3,7 +3,7 @@
     ViewBag.Title = "Home Page";
 }
 
-<h1>ATTENDING</h1>
+<h1>UPCOMING COURSES</h1>
 <ul class="course">
     @foreach (var course in Model.UpcommingCourses)
     {
@@ -44,25 +44,25 @@
                 var button = $(e.target);
                 $.post("/api/attendances", { courseId: button.attr("data-course-id") })
                     .done(function () {
-                        button.removeClass("btn-default")
+                        button
+                            .removeClass("btn-default")
                             .addClass("btn-info")
                             .text("Going");
                     })
                     .fail(function () {
-                        alert("Something goes wrong");
+                        alert("Something failed!");
                     });
             });
             $(".js-toggle-follow").click(function (e) {
                 var button = $(e.target);
-                $.post("/api/followings", { followeeId: button.attr("data-user-id") })
+                $.post("/api/followings", { courseId: button.attr("data-user-id") })
                     .done(function () {
-                        button.text("Following")
+                        button.text("Following");
                     })
                     .fail(function () {
-                        alert("Something goes wrong");
+                        alert("Something failed!");
                     });
             });
         });
     </script>
 }
-</div>
